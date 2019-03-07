@@ -2,3 +2,6 @@
 unwantedfile
 old/
 unwantedfolder/
+access.log
+auth.log
+error.log
